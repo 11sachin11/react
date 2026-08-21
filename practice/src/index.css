@@ -109,3 +109,15 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+.container {
+  background-color: blueviolet;
+  border-radius: 8px;
+  margin: 20px ;  
+  padding: 20px;
+}
+#nav{
+  background-color: rgb(73, 70, 77);
+  border-radius: 8px;
+  margin: 20px ;  
+  padding: 20px;
+}
